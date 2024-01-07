@@ -1,54 +1,48 @@
 /*
-* https://rentry.org/teralomaniac_clewd
-* https://github.com/teralomaniac/clewd
-*/
+ * https://rentry.org/teralomaniac_clewd
+ * https://github.com/teralomaniac/clewd
+ */
 
 // SET YOUR COOKIE BELOW
 
 module.exports = {
-    "Cookie": "sessionKey=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",
-    "CookieArray": [
-        "sessionKey=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",
-        "sessionKey=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",
-        "sessionKey=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",
-        "sessionKey=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",
-        "sessionKey=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"
-    ],
-    "Cookiecounter": 3,
-    "CookieIndex": 0,
-    "ProxyPassword": "08270087",
-    "Ip": "127.0.0.1",
-    "Port": 8444,
-    "localtunnel": false,
-    "BufferSize": 1,
-    "SystemInterval": 3,
-    "rProxy": "https://claude.ai",
-    "api_rProxy": "",
-    "padtxt_placeholder": "",
-    "PromptExperimentFirst": "",
-    "PromptExperimentNext": "",
-    "PersonalityFormat": "{{char}}'s personality: {{personality}}",
-    "ScenarioFormat": "Dialogue scenario: {{scenario}}",
-    "Settings": {
-        "RenewAlways": true,
-        "RetryRegenerate": false,
-        "PromptExperiments": true,
-        "SystemExperiments": true,
-        "PreventImperson": false,
-        "AllSamples": false,
-        "NoSamples": false,
-        "StripAssistant": false,
-        "StripHuman": false,
-        "PassParams": false,
-        "ClearFlags": true,
-        "PreserveChats": false,
-        "LogMessages": true,
-        "FullColon": true,
-        "padtxt": 15000,
-        "xmlPlot": true,
-        "Superfetch": true
-    }
-}
+  Cookie:
+  CookieArray: ["sessionKey=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","sessionKey=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","sessionKey=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","sessionKey=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","sessionKey=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","sessionKey=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","sessionKey=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","sessionKey=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"],
+  Cookiecounter: 3,
+  CookieIndex: 0,
+  ProxyPassword: "20010827",
+  Ip: "127.0.0.1",
+  Port: 8444,
+  localtunnel: false,
+  BufferSize: 1,
+  SystemInterval: 3,
+  rProxy: "https://claude.ai",
+  api_rProxy: "",
+  padtxt_placeholder: "",
+  PromptExperimentFirst: "",
+  PromptExperimentNext: "",
+  PersonalityFormat: "{{char}}'s personality: {{personality}}",
+  ScenarioFormat: "Dialogue scenario: {{scenario}}",
+  Settings: {
+    RenewAlways: true,
+    RetryRegenerate: false,
+    PromptExperiments: true,
+    SystemExperiments: true,
+    PreventImperson: false,
+    AllSamples: false,
+    NoSamples: false,
+    StripAssistant: false,
+    StripHuman: false,
+    PassParams: false,
+    ClearFlags: true,
+    PreserveChats: false,
+    LogMessages: true,
+    FullColon: true,
+    padtxt: 15000,
+    xmlPlot: true,
+    Superfetch: true,
+  },
+};
 
 /*
  BufferSize
