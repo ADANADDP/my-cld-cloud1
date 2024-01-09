@@ -6,7 +6,7 @@
 // SET YOUR COOKIE BELOW
 
 module.exports = {
-  Cookie:""
+  Cookie: "",
   CookieArray: [],
   Cookiecounter: 3,
   CookieIndex: 0,
